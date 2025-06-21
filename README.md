@@ -1,2 +1,5 @@
-# GETMYRANK
-A mock test website for students to achieve good mark in the examination.GetMyRank is best website.
+# GetMyRank
+
+## Fullstack SSC Test Platform
+
+Run backend and frontend separately.
